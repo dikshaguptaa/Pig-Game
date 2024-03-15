@@ -1,0 +1,3 @@
+C:/Users/diksh/CLionProjects/piggame/cmake-build-debug/CMakeFiles/piggame.dir
+C:/Users/diksh/CLionProjects/piggame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/diksh/CLionProjects/piggame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
